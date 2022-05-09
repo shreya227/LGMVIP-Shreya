@@ -13,6 +13,6 @@ We need to read the image in RBG format and then convert it to a grayscale image
 
 
 
-### Greyscale image
+### Pencil sketch image
 ![image](https://user-images.githubusercontent.com/88545581/167342593-728cde16-51ad-445c-baeb-06654b34210c.png)
 
