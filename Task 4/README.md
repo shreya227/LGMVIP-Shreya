@@ -5,7 +5,7 @@
 
 ### Level:Intermediate
 
-### Task: Exploratory Data Analysis on Dataset — Terrorism dataset
+### Task: Prediction using Decision Tree  Algorithm 
 
 ### Task Description:
 Created the Decision Tree classifier and visualized it graphically. 
