@@ -1,7 +1,7 @@
-# LGMVIP-Shreya
-Internship Tasks of LGMVIP for May-2022
+LGMVIP- @Shreya227
+## **Internship Tasks of LGMVIP for May-2022** 
 
-![lgmvip] https://user-images.githubusercontent.com/84913669/134143334-8f6426da-8d28-493f-a981-b6129c81d159.png
+![image](https://user-images.githubusercontent.com/84913669/134143334-8f6426da-8d28-493f-a981-b6129c81d159.png)
 
 ## Task 1
 ### - Beginner Level Task
